@@ -28,4 +28,17 @@ Professionally styled Sales Dashboard using:
 
 * Color-coded formatting for performance insights.
 
+## How to Run Locally
+This is an Excel file. You do not need programming tools to run it.
+
+## Steps:
+* Go to the GitHub repo and download: project excel 2 (1).xlsx
+
+* Open it in Microsoft Excel (2013 or later preferred)
+
+* Enable editing and content if prompted
+
+* Explore the sheets and dashboard to analyze insights
+
+
   
