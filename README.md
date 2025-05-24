@@ -16,7 +16,7 @@ Professionally styled Sales Dashboard using:
 
 * Pivot table was used to find total sales, total profit, average sales etc.
 
-* Using pivot table graphs was plotted
+* Using pivot table graphs was plotted:
 
 * Bar charts
 
